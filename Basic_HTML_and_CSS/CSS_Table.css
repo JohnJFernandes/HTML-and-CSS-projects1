@@ -1,0 +1,18 @@
+<!DOCTYPE>
+<html>
+		table  {
+			border: 2px blue;
+		}
+		td: hover  {
+			background-color: red;
+			color: black;
+		}
+		tr,th  {
+			background-color: green;
+			color: yellow;
+		}
+		tr, td  {
+			background-color: lime green;
+			color: dark gray;
+		}
+</html>

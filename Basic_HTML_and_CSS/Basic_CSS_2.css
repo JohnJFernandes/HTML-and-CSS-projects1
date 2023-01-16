@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>	
+		<style>
+			h1 { 
+			  text-shadow: 5px 5px red;
+			}
+			h1 { 
+			  text-shadow: 2px 2px red;
+			}
+			p  {
+				color: gray;
+				background: black;
+				font-weight: bold;
+				text-align: right;
+			}	
+			ol {
+				list-style-type: upper-roman;
+				color: red;
+			}
+			ul  {
+				list-style-type: square;
+				color: blue;
+			}
+		</style>
+</html>
