@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+	<style>
+	h1: after {
+	  <h1>"THE_AMG" ' \00A9';</h1>
+	}	
+	</style>
+</html>
