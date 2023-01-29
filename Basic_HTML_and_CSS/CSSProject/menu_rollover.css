@@ -1,3 +1,33 @@
+.head-main {
+    text-shadow: 2px 4px 5px rgba(0,0,0,0.9);
+    font-variant: small-caps;
+    color: #fff;
+    letter-spacing: 21pt;
+    word-spacing: 21pt;
+    font-size: 4.5em;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    border: 5px double #fff;
+    padding: 10px;
+}
+
+.head-sub-mai {
+    font-size: 23px;
+    font-weight: 500;
+    padding: 50px 20px 10px 20px;
+    text-transform: uppercase;
+}
+
+.head-last {
+    font-size: 18px;
+    font-weight: 900;
+    padding: 5px 20px 20px 20px;
+    border: 1px dotted #fff
+     
+}
+
 body  {
     background-color: #184352;
 }
@@ -51,6 +81,7 @@ body  {
     /*While hovered, drop down-menu appears 
     This also avoids a block-level bug*/
     visibility: visible;
+    orientation: vertical;
 }
 
 .submenu {
@@ -62,7 +93,7 @@ body  {
     opacity: 0;
     /*While not being hovered, drop down-menu hides
     This also avoids a block-level bug*/
-    visibility: hidden;
+    visibility: hidden until active;
 }
 
 .submenu li{
@@ -74,4 +105,14 @@ body  {
 .submenu li:hover{
     color: #fff;
     background-color: #5eafdf;
+}
+
+.contact{ 
+    margin-bottom: 1px;
+    margin-left: -2px;
+    width: 200px;
+    height: 200px;
+    position: fixed
+    ;
+    
 }
