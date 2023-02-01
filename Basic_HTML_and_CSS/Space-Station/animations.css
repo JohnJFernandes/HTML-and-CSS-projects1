@@ -5,9 +5,10 @@
     display: inline;
     margin: 0% auto;
     padding: 0;
-    list-style: none
+    list-style: none;
     text-decoration: none;
- }
+}
+ 
 
 .menu li  {
     color: #000;
