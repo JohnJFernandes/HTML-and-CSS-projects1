@@ -1,0 +1,314 @@
+html {
+	display: block;
+}
+head  {
+	display: none;
+}
+meta  {
+	display: none;
+}
+body {
+	margin:0%;
+}
+/*body*/
+body  {
+	display: block;
+}
+.Navbar  {
+	overflow: hidden;
+	background-color: black;
+	position: relative;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+	animation: moveNav 5s;
+}
+div  {
+	display: block;
+}
+Navbar a.active  {
+	background-color: darkgray;
+}
+.Navbar a {
+	width: 25%;
+	font-size: 14px;
+}
+.Navbar a {
+	float: left;
+	display: block;
+	color: #fff;
+	padding: 4px 8px;
+	text-decoration: none;
+	font-family: Avant Garde, Helvetica, sans-serif;
+	text-align: center;
+	position: relative;
+	animation: moveNavText 5.75s;
+}
+.Navbar a  {
+	width: 25%;
+	font-size: 12px;
+}
+div  {
+	display: block;
+}
+Thelasthotrod.mp4  {
+	display: position;
+}
+Thelasthotrod.mp4  {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	z-index: -1;
+}
+video  {
+	object-fit: contain;
+	overflow-clip-margin: content-box;
+	overflow: clip;
+	overflow-x: 5px;
+	overflow-y: 5px;	
+}	
+.Video_Text  {
+	background: rgba(0,0,0, 0.5);
+	color: azure;
+	width: 100%;
+	padding: 20px;
+	position: relative;
+	animation: moveVideoText 5.75s;
+}
+div  {
+	display: block;
+}
+.white-text  {
+	color: #fff;
+}
+h1:hover  {
+	text-transform: uppercase;
+	font-family: 'Trebuchet MS', Optima, 'Lucida Sans';
+	text-align: center;
+	margin-top: 3%;
+	color: #1a1a1a;
+}
+*  {
+	box-sizing: border box;
+}
+h1  {
+	display: block;
+	font-size: 2em;
+	margin-block-start: .67em;
+	margin-block-end: .67em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+}
+*  {
+	box-sizing: border-box;
+}
+strong  {
+	font-weight: bold;
+}
+.center  {
+	text-align: center;
+}
+p  {
+	font-family: Perpetua, Rockwell Extra Bold;
+	letter-spacing: 1px;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+p  {
+	display: block;
+	margin-block-start: 1em;
+	margin-inline-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
+q  {
+	font-style:italic;
+}
+*  {
+	box-sizing: border-box;
+}
+q  {
+	display: inline;
+}
+*  {
+	box-sizing: border-box;
+}
+div  {
+	display: block;
+}
+.Row:after  {
+	content: "";
+	display: table;
+	clear: both;
+}
+.Column_2  {
+	float: left;
+	width: 50%;
+	padding: 5px;
+	padding-top: .5%;
+	height: 350px;
+	background-color: #4d4d4d;
+}
+*  {
+	box-sizing: border-box;
+}
+div  {
+	display: block;
+}
+img  {
+	height: 200px;
+	margin-top: 40px;
+}
+img  {
+	filter: saturate(75%);
+	border-radius: 8px;
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+*  {
+	box-sizing: border-box;
+}
+img  {
+	overflow-clip-margin: content-box;
+	overflow: clip;
+}
+.Column_1  {
+	overflow: auto;
+}
+.Column_1  {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	padding-top: 3%;
+	height: 250px;
+	background-color: #f2f2f2;
+}
+*  {
+	box-sizing: border-box;
+}
+div  {
+	display: block;
+}
+h1  {
+	text-transform: uppercase;
+	font-family: 'Trebuchet MS', Optima, 'Lucida Sans';
+	text-align: center;
+	margin-top: 3%;
+	color: #1a1a1a;
+}
+*  {
+	box-sizing: border box;
+}
+h1  {
+	display: block;
+	font-size: 2em;
+	margin-block-start: .67em;
+	margin-block-end: .67em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+}
+p  {
+	font-family: Perpetua, Rockwell Extra Bold;
+	text-align: justify;
+	letter-spacing: 1px;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+*  {
+	box-sizing: border-box;
+}
+p  {
+	display: block;
+	margin-block-start: 1em;
+	margin-inline-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
+a  {
+	color: blue;
+}
+*  {
+	box-sizing: border-box;
+}
+*  {
+	box-sizing: border-box;
+}
+div  {
+	display: block;
+}
+
+a:-webkit-any-link  {
+	cursor: pointer;
+	text-decoration: underline;
+}
+*  {
+	box-sizing: border-box;
+}
+div  {
+	display: block;
+}
+.Column_tall  {
+	padding-top: 3.5%;
+	height: 450px;
+}
+form  {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 10px;
+	font-family: 'Trebuchet MS', Optima;
+}
+
+label  {
+	cursor: default;
+}
+input[type=text]  {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+	font-family: Perpetua, Rockwell Extra Bold;
+}
+input  {
+	writing-mode: horizontal-tb !important;
+	font-style: italic;
+	font-variant-ligatures: common-ligatures;
+	font-variant-caps: normal;
+	font-variant-numeric: ordinal;
+	font-variant-east-asian: normal;
+	font-weight: 700;
+	font-stretch: narrower;
+	font-size: larger;
+	text-rendering: auto;
+	color: fieldtext;
+	letter-spacing: normal;
+	word-spacing: normal;
+	line-height: normal;
+	text-transform: none;
+	text-indent: 0;
+	text-shadow: none;
+	display: inline-block;
+	text-align: start;
+	appearance: auto;
+	-webkit-rtl-ordering: logical;
+	cursor: text;
+	background-color: field;
+	margin: 0em;
+}
+footer  {
+	padding: 2%;
+	background-color: white;
+}
+footer  {
+	display: block;
+}
