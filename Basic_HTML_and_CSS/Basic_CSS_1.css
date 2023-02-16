@@ -1,11 +1,43 @@
-<!DOCTYPE html>
 <html>
+element.style  {
+}
+html {
+	display: block;
+}
+head  {
+	display: none;
+}
+body {
+	margin:0%
+}
+body  {
+	display: block;
+}
+.Navbar  {
+	overflow: hidden;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+	animation: moveNav 5s;
+}
+div  {
+	display: block;
+}
+div  {
+	display: block;
+}
+.Video_Text  {
+	background: rgba(0,0,0, 0.5);
+	color: azure;
+	width: 100%;
+	padding: 20px;
+	position: relative;
+	animation: moveVideoText 5.75s;
+}
+div  {
+	display: block;
+}
 
-	<head>
-	<link rel="stylesheet" type"text/css" href="My_Style">
-	</head>
-	<body>
-		<p>Hey! Over here!</p>
-		<p>These paragraphs are styled with CSS.</p>
-	</body
 </html>
