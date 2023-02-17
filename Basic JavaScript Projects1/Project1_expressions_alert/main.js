@@ -7,3 +7,8 @@ function myFunction ()  {                     //button display when clicked//
     sentence += "a little from this book!";
     document.getElementById("Concatenate").innerHTML =sentence;
 }
+
+function myFunction("12 times 22")  {
+    return 12 * 22;
+}
+document.getElementById(fruit)
