@@ -2,4 +2,5 @@ var
 
 window.alert("Everyone has to wake")
 
-document.write('"HELLO WORLD"');
+document.write('"HELLO WORLD!"');
+
